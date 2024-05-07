@@ -1,0 +1,14 @@
+.page-header {
+    background-color: var(--bg-dark-blue);
+    padding: 1rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-logo {
+    color: white;
+    font-size: 3rem;
+}

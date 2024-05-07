@@ -1,0 +1,44 @@
+.book {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.book-title {
+    color: var(--bg-blue);
+    text-align: center;
+}
+.book-author {
+    margin-bottom: 1rem;
+}
+
+.add-book-btn {
+    background-color: var(--btn-green);
+    padding: 1rem 2rem;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-top: 1rem;
+    border: none;
+}
+
+.book-counter {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.book-counter button {
+    flex: 3;
+    padding: 1rem;
+}
+
+.book-counter p {
+    flex: 1;
+    padding: 1rem;
+}

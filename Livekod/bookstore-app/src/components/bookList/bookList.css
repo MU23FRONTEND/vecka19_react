@@ -1,0 +1,11 @@
+.page-booklist {
+    background-color: var(--bg-blue);
+    min-height: 50vh;
+}
+
+.booklist {
+    display: grid;
+    gap: 1rem;
+    padding: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
