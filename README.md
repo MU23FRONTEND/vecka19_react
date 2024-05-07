@@ -19,7 +19,8 @@ Notera återigen att filmerna riktar sig mot vanlig JavaScript, men principerna 
 
 
 ### Liveinspelningar
-Inga föreläsningar publicerade ännu... 
+- [Tisdag förmiddag](https://vimeo.com/943753682/d81164d04b?share=copy)
+- [Tisdag förmiddag](https://vimeo.com/943753616/68863a7db4?share=copy)
 
 ### YouTube
 - [React/TypeScript - complete tutorial](https://www.youtube.com/watch?v=TPACABQTHvM)

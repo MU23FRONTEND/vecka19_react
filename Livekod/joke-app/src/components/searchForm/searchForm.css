@@ -1,0 +1,19 @@
+.search-form {
+    display: flex;
+    margin-bottom: 2rem;
+    justify-content: space-between;
+    width: 100%;
+    gap: 2rem;
+}
+
+.search-form input {
+    flex: 9;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+
+.select {
+    padding: 1rem;
+    border-radius: .5rem;
+    flex: 3;
+}
